@@ -12,8 +12,8 @@ A responsive and user-friendly **App Store** web application built using **React
 
 ## 🚀 Live Demo
 
-👉 [Click here to view the live site](https://abhiappstore.ccbp.tech)  
-🔗 URL: https://abhiappstore.ccbp.tech
+👉 [Click here to view the live site](https://bhumiappstore.ccbp.tech)  
+🔗 URL: https://bhumiappstore.ccbp.tech
 
 ## ✨ Features
 
